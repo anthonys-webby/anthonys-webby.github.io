@@ -65,7 +65,7 @@ li{
         border: inset;
         border-width: 15px;
 }
-#story{
+.story{
      border: inset;
     background-color: black;
     color: #D8C757
