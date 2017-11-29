@@ -64,7 +64,15 @@ li{
     img{
         border: inset;
         border-width: 15px;
-    }
+}
+#story{
+     border: inset;
+    background-color: black;
+    color: #D8C757
+}
+    
+    
+    
     .button {
         display: inline-block;
         text-align: center;
