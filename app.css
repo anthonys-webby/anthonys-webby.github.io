@@ -12,7 +12,7 @@ h2{
 
     }
 li{
-    font-size: 45px;
+    font-size: 20px;
     max-width: 500px;
     padding: 20px;
     margin: 0 auto;
@@ -55,9 +55,10 @@ li{
         border-color: #ce7373
     }
     a{
+        text-align: center;
         font-family: 'Rozha One', serif;
         color: #D8C757;
-        text-align: center;
+        
     }
     .pics{
         text-align: center;
@@ -67,7 +68,7 @@ li{
         border-width: 15px;
 }
 .story:link{
-    text-align: center;
+    font-size: 30px;
     border: inset;
     background-color: black;
     color: #D8C757;
